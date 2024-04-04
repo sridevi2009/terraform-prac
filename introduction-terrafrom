@@ -1,0 +1,24 @@
+1.terraform is a infrastructure as a code software tool created by Hashicorp
+2.users define and provide data centers infrastructure using a declarative configuration language known as Hashicorp configuration language(HCL), or optionally JSon
+3.it is written in go programming language also known as Golang
+commands:
+---------
+-->google search(install terraform)
+-->download windows64 bit
+-->extrall all (forms terraform.exec file)
+-->save that file in seperate folder in c drive( say as a software)
+-->save this path in environmental variables
+---> check terraform version in cmd
+-----------------------
+if u want to push infra in aws account then we need authentication from aws
+---> so we have to install aws cli
+--->google search(aws cli install)
+----> select windows commands ( download the link)
+open the download file click next,next,next...and install it
+
+--->aws --version (in cmd)
+
+
+
+
+
